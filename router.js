@@ -1,3 +1,3 @@
-$.fn.app=function(){
-	$.alert("ok");
+$.fn.router=function(){
+	$.alert("router");
 };
